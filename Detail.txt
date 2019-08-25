@@ -1,0 +1,11 @@
+*************************************************************
+************this is detail about this website****************
+*************************************************************
+
+    This website will manage user in company.Website can use
+
+function Add , Delete , Update and Edit user in company. 
+
+This app will complete when september end.
+
+© Copyright. All Rights Reserved and Developed by PG Memory
